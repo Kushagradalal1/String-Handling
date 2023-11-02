@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f99e88b7-8cbc-4682-aa89-ca7ba60d3c9f" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/String Revision.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StringBuilderExample/StringBuilderExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StringExample/CheckEqualsMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StringExample/FetchingStringExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StringExample/SearchStringExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StringExample/StringExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StringExample/UpperCaseLowerCaseExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Strings/Strings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/toStringExplain/toStringExample.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2XbhC411YjgzSbKmWZFA3Ug2LPH" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;/Users/kushagradalal/Downloads/String Revision/src/Main.java&quot;
+  }
+}</component>
+  <component name="RunManager" selected="Application.toStringExample">
+    <configuration name="FetchingStringExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StringExample.FetchingStringExample" />
+      <module name="String Revision" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="StringExample.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SearchStringExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StringExample.SearchStringExample" />
+      <module name="String Revision" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="StringExample.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StringBuilderExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StringBuilderExample.StringBuilderExample" />
+      <module name="String Revision" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="StringBuilderExample.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UpperCaseLowerCaseExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StringExample.UpperCaseLowerCaseExample" />
+      <module name="String Revision" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="StringExample.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="toStringExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="toStringExplain.toStringExample" />
+      <module name="String Revision" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="toStringExplain.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.toStringExample" />
+        <item itemvalue="Application.StringBuilderExample" />
+        <item itemvalue="Application.UpperCaseLowerCaseExample" />
+        <item itemvalue="Application.FetchingStringExample" />
+        <item itemvalue="Application.SearchStringExample" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f99e88b7-8cbc-4682-aa89-ca7ba60d3c9f" name="Changes" comment="" />
+      <created>1698903555463</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1698903555463</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Main.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
