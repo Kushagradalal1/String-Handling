@@ -82,5 +82,10 @@ public class StringExample {
     : bool hasMoreTokens() : check whether token is there or not?
     : String nextToken() :  Get the tokens here.
 
+
+    : String Joiner : java 8 on-words : used for to add the String tokens :
+    : just need to pass a deli-meter : example :
+    StringJoiner sj=new StringJoiner(",")
+
     */
 }
