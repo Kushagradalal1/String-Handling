@@ -72,7 +72,15 @@ public class StringExample {
     but the difference is StringBuffer methods are synchronized & StringBuilder
     methods are non-synchronized.
 
+    : Method level synchronized -> declared the method as synchronized
+    : Blocked level synchronized -> declared the block as synchronized
 
+    : String Tokenizer : java 5 on-words : In Java String Tokenizer class is used to create the Token (Parts) of a given string.
+    : String Tokenizer is a package of java.util.package :
+
+    Methods for String Tokenizer :
+    : bool hasMoreTokens() : check whether token is there or not?
+    : String nextToken() :  Get the tokens here.
 
     */
 }
